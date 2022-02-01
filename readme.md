@@ -3,3 +3,4 @@
 - second commit
 - another line (edited from github and pulled)
 - branch update
+- status check git add
